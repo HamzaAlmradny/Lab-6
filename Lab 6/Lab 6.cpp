@@ -1,3 +1,23 @@
+// Documentation Section
+
+/*
+File Name : Lab 6
+Author : Hamza Alsayed Almradny
+Version : V.1
+Purpose : ask the user to enter two integer values and print their summation, multiplication, subtraction, division, and remainder.
+Date : 7/7/2025
+*/
+
+
+
+
+
+
+
+
+
+
+
 #include <iostream>
 using namespace std;
 
